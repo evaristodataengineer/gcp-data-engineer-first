@@ -510,13 +510,12 @@ Este repositorio está en **evolución continua**. Futuras adiciones incluirán:
 
 **Evaristo - Data Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/evaristo-sandoval-gil-86a6a0291/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/tu-usuario](https://github.com/evaristodataengineer))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaristo-sandoval-gil-86a6a0291/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evaristodataengineer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evaristodataengineer@gmail.com)
 
 > 💼 **En búsqueda activa de oportunidades como Data Engineer**
 
----
 
 <div align="center">
 
@@ -525,5 +524,6 @@ Este repositorio está en **evolución continua**. Futuras adiciones incluirán:
 **Hecho con ❤️ para la comunidad de Data Engineering**
 
 </div>
+
 
 
