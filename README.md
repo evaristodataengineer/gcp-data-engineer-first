@@ -510,19 +510,11 @@ Este repositorio está en **evolución continua**. Futuras adiciones incluirán:
 
 **Evaristo - Data Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/evaristo-sandoval-gil-86a6a0291/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/tu-usuario](https://github.com/evaristodataengineer))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evaristodataengineer@gmail.com)
 
 > 💼 **En búsqueda activa de oportunidades como Data Engineer**
-> 
-> Especializado en Google Cloud Platform, con experiencia en diseño e implementación de arquitecturas de datos escalables, pipelines ETL/ELT y optimización de costos en la nube.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
@@ -533,4 +525,5 @@ Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 **Hecho con ❤️ para la comunidad de Data Engineering**
 
 </div>
+
 
